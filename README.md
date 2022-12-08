@@ -26,4 +26,4 @@ There are many other programming languages that are available for it, but becaus
 * Finally its ready to install opencv in blender: **./python3.7m pip install opencv-python**
 
 ## Command Line Interface
-Open the terminal and run: 
+Open the terminal and run: jclsc@jcl-sc:~/Documents/blender-2.90.0-linux64$ blender -b -P /home/jclsc/Documents/blender-2.90.0-linux64/generateImage_2.py -- --file_path/home/jclsc/Documents/blender-2.90.0-linux64/objects
